@@ -6,7 +6,7 @@ A simple Python script for generating random passwords of specified lengths. Thi
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/pestingo/password-generator.git
     ```
 
 2. Navigate to the project directory:
